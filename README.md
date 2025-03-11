@@ -8,7 +8,7 @@ NIM          : 4111419050
 University   : UNNES
 
 Python Notebook :
-https://github.com/aziz-na/preprocessing_datamining_1/blob/main/movie_metadata.csv
+https://github.com/aziz-na/preprocessing_datamining_1/blob/main/tugas_preprocessing.ipynb
 
 Dataset File :
 https://github.com/aziz-na/preprocessing_datamining_1/blob/main/movie_metadata.csv
