@@ -6,3 +6,9 @@ Name         : Aziz Nurhidayat Adriyanto
 NIM          : 4111419050
 
 University   : UNNES
+
+Python Notebook :
+https://github.com/aziz-na/preprocessing_datamining_1/blob/main/movie_metadata.csv
+
+Dataset File :
+https://github.com/aziz-na/preprocessing_datamining_1/blob/main/movie_metadata.csv
